@@ -91,8 +91,6 @@ The **Push-Relabel algorithm** maintains a preflow from the source and pushes fl
 ## 🧑‍💻 Author
 
 * **Thinula Harischandra**
-  University of Westminster
-  ID: `w2051872`
 
 ---
 
